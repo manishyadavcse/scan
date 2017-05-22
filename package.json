@@ -1,0 +1,17 @@
+{
+  "name": "scan",
+  "version": "1.0.0",
+  "description": "Angularjs app to access camera from browser and capture images",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "angular-route": "^1.6.4",
+    "angular-ui-bootstrap": "^2.5.0",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "webcam": "^3.1.1"
+  }
+}
